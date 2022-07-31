@@ -1,3 +1,6 @@
+
+<img  width="100%" height="250px" src="https://entropy.co.za/assets/images/hello-terminal-cursor.gif">
+
 <h1 align="center">Hi, I'm Amar Dalvi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A passionate competitive programmer</h3>
 
