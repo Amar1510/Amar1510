@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amar1510&show_icons=true&theme=dark&locale=en" alt="amar1510" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar1510&theme=dark" alt="amar1510" /></p>
-<a href="https://github.com/dhirajdarakhe/github-readme-activity-graph"><img alt="Amar Dalvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amar1510&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/amar1510/github-readme-activity-graph"><img alt="Amar Dalvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amar1510&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
