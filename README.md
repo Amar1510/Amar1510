@@ -1,31 +1,88 @@
+# 👋 Hi, I'm Amar Dalvi
 
-<img  width="100%" height="250px" src="https://entropy.co.za/assets/images/hello-terminal-cursor.gif">
+## 💻 Software Engineer @ iauro Systems · ⚙️ Backend Developer · 🤖 GenAI Enthusiast
 
-<h1 align="center">Hi, I'm Amar Dalvi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate competitive programmer</h3>
+📍 Pune, Maharashtra, India · 📧 amardalvi15@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar1510&label=Profile%20views&color=0e75b6&style=flat-square" alt="amar1510" /> </p>
+Backend-focused Software Engineer building scalable, reliable, and high-performance systems with **Node.js, NestJS, and TypeScript**. I care about clean APIs, performance optimization, and maintainable services — and I'm actively exploring **LLMs, agentic AI, and vector databases**.
 
-<p align="left"> <a href="https://twitter.com/amardalvi_0044" target="blank"><img src="https://img.shields.io/twitter/follow/amardalvi_0044?logo=twitter&style=for-the-badge" alt="amardalvi_0044" /></a> </p><hr>
-<h3>About me✍ </h3>
+---
 
-- 🌱 I’m currently learning **DSA, Node.js**
+### 🔭 What I'm working on
+- Designing and building **microservices** and clean REST APIs at iauro Systems
+- Optimizing backend performance and reliability for production-grade services
+- Exploring **Generative AI** workflows and how intelligent systems are designed and deployed
 
-- 📫 How to reach me, **drop an email at amardalvi15@gmail.com**
-<hr>
-<h3 align="left">Connect with me: 🔗</h3>
-<p align="left">
-<a href="https://twitter.com/amardalvi_0044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amardalvi_0044" height="30" width="40"/></a> 
-<a href="https://linkedin.com/in/amar-dalvi-ba5b36208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-dalvi-ba5b36208" height="30" width="40" padding = "5px" /></a>
-<a href="https://www.codechef.com/users/amarrd_0044" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amarrd_0044" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amar_0044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amar_0044" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zealous_0044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zealous_0044" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amarrd_0044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amarrd_0044" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@amarrd_0044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amarrd_0044" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dalviar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dalviar2002" height="30" width="40" /></a>
-</p>
-<hr>
+### 🌱 Currently learning
+- LLMs & Agentic AI
+- Vector databases & modern AI workflows
+- Advanced system design & distributed systems
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<hr>
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244B5A?logo=grpc&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F61?logo=apachekafka&logoColor=white)
+
+**Databases & Storage**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+**Exploring**
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF9A00?logo=anthropic&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-4B8BBE?logo=pinecone&logoColor=white)
+
+---
+
+### 🎓 Education
+- 🏫 **B.E. Information Technology** — Pune Institute of Computer Technology (PICT), 2024 · CGPA 8.77/10
+
+---
+
+### 📊 GitHub Stats
+
+![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar1510&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar1510&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Amar1510&theme=radical)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar-dalvi-ba5b36208/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AmarDalvi_0044)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:amardalvi15@gmail.com)
